@@ -250,7 +250,7 @@ section .set div:nth-child(26)
 
 section .img div:nth-child(1)
 {
-		margin-left: -50%;
+		margin-left: -60%;
 		object-position: center;
 		margin-top: 100%;
 		object-fit: cover;
@@ -271,7 +271,7 @@ section .img div
 
 section .img div:nth-child(2)
 {
-		margin-left: -50%;
+		margin-left: -80%;
 		object-position: center;
 		margin-bottom: 100%;
 		margin-top: 20%;
@@ -297,17 +297,17 @@ section .back div
  
 h2
 {
-	font-size: 19px;
+	font-size: 21px;
 }
 
 h3
 {
-	font-size: 15px;
+	font-size: 17px;
 }
 
 p
 {
-	font-size: 12px;
+	font-size: 14px;
 }
 .word
 {
